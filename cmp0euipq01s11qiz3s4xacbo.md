@@ -1,0 +1,34 @@
+---
+title: "EL CONCEPTO DE ALMACENAMIENTO DE AGUA PARA EL COMBATE DE INCENDIOS"
+datePublished: 2026-05-10T23:35:07.071Z
+cuid: cmp0euipq01s11qiz3s4xacbo
+slug: el-concepto-de-almacenamiento-de-agua-para-el-combate-de-incendios
+
+---
+
+![El concepto de Almacenamiento de Agua para el Combate de Inc](https://files.catbox.moe/x38sed.jpg align="center")
+
+Existen conceptos diametralmente opuestos entre los principios de suministro de agua para la protección contra incendios que la NFPA 13 establece y aquellos de nuestra realidad nacional. Mientras que para la NFPA 13 el abastecimiento de los sistemas de rociadores se hace desde la red pública, y en caso la presión no sea suficiente se refuerza con la instalación de una bomba contra incendios, a la que se le suele llamar “booster pump” o “bomba reforzadora”, en el Perú en cambio estamos obligados a vaciar el agua en un tanque y rebombearla nuevamente a través del uso de una bomba contra incendios privada y de uso exclusivo de la propiedad. Pero existen otras diferencias importantes que es necesario precisar:
+
+![El concepto de Almacenamiento de Agua para el Combate de Inc](https://files.catbox.moe/tum0td.jpg align="center")
+
+*   Las redes Públicas de agua contra incendios son sumamente confiables, sólo dependen del adecuado control de una única instancia, a diferencia de las redes privadas que dependen de múltiples instancias (léase propietarios), generando un excesivo y complejo mecanismo de control que el Estado y el Sector Privado deben afrontar.
+    
+*   Las bombas de agua contra incendios están sujetas a múltiples posibilidades de falla en caso de incendio, si las bombas son eléctricas existe una alta probabilidad que no puedan operar en caso de incendio debido a la errada política, cada vez más aplicada, que se deben cortar todas las fuentes de energía eléctrica en caso de incendio. Este es el caso de muchos incendios, donde la decisión de cortar el suministro de energía, deja inhabilitada la posibilidad de usar el agua almacenada para uso contra incendios, como un medio para ayudar a controlar el fuego en su etapa inicial, permitiendo que éste se salga fuera de control, con las consecuencias lamentables que todos conocemos.
+    
+*   Sumado a ello, está la lamentable situación, que dificulta que las bombas eléctricas se puedan probar, por los altos costos asociados a los picos de consumo que generan energía reactiva.
+    
+*   Si todas las bombas fueran alimentadas por un motor Diesel, aparte de los mayores costos que estas bombas representan para el usuario, tendríamos casos en los que en un mediano plazo estos equipos estarán fuera de servicio, por falta de mantenimiento y/o por la falta de capacidad de los propietarios de invertir en el mantenimiento preventivo, predictivo y correctivo a que da lugar equipos como éstos, situación que también aplica en menor medida a las bombas eléctricas que se agrava cuando la propiedad del sistema pertenece a múltiples propietarios, que casi nunca se ponen de acuerdo.
+    
+*   Mientras que el caudal para la extinción de incendios en las redes públicas que abastecen a los sistemas de rociadores y a otros sistemas de protección contra incendios a base de agua, es un flujo potencial, en las redes privadas es un stock. Esto quiere decir que cada edificación se tiene que suplir de una capacidad de agua suficiente para combatir su propio incendio, generándose múltiples instalaciones con múltiples tanques en toda la ciudad, si a esto le sumamos que el agua almacenada es potable, estamos generando un enorme daño ecológico al tener en stock un bien que usaremos con una muy baja probabilidad. Esto es como que cada uno tenga en su casa un tratamiento completo y costoso para una enfermedad muy rara, a la espera de usarlo un día y lo más probable que nunca.
+    
+*   El hecho que cada edifico de la ciudad guarde aproximadamente 100 m3 de agua para uso de su propio incendio, y hayan miles de edificios guardando ese volumen, ya es un desastre ecológico y un enorme daño que estamos haciendo a nuestro ecosistema.
+    
+*   En EE.UU. las redes públicas de incendio, tienen presión y caudal suficiente para extinguir incendios en edificios de gran altura sin la necesidad de una bomba contra incendios. Los edificios no tienen tanque, ni hay bombas contra incendio, sino que se abastecen directamente de la red pública. Esta red de emergencia jamás es desconectada y tiene la prioridad en cualquier caso.
+    
+
+![El concepto de Almacenamiento de Agua para el Combate de Inc](https://files.catbox.moe/18gk4r.jpg align="center")
+
+¿Pero si ya estamos encaminados en un modelo en el cual no existen redes públicas capaces de soportar el abastecimiento adecuado para un sistema contra incendios, cómo resolveríamos estas deficiencias?. La respuesta puede estar en el apoyo municipal y el sector privado. El ahorro económico comunitario que se lograría en recursos, la protección del medio ambiente y la mayor confiabilidad en el funcionamiento del sistema, serían aspectos muy importantes que se lograrían resolver, si dejáramos de instalar los cientos de bombas contra incendios y las decenas de miles de metros cúbicos que se piensan instalar en los próximos años en un distrito, y sean reemplazados por una solo gran tanque municipal con una red de tuberías independiente y una sola gran bomba contra incendios que abastezca a todos los edificios del distrito. El dinero dejado de invertir en tanques y bombas contra incendio tendría que ser aportado para la construcción de este sistema público a cargo del municipio, con lo cual es posible que el proyecto sea auto sostenible, pues es más que evidente que un tanque y una bomba contra incendios en una calle de la ciudad cuestan más que lo que cuestan 100 metros de tubería para llegar al edificio, si a esto sumamos que en cualquier calle de la ciudad hay más de un edificio que requiere de agua contra incendios, no es muy difícil darse cuenta que tenemos de sobra los recursos para lograr no sólo ahorrar dinero a la comunidad, sino mucho más importante, darle mayor seguridad a la ciudad con un solo sistema bien mantenido, en vez de cientos de sistemas mal mantenidos y que no funcionan. Tan importante como lo anterior, está el hecho de preservar nuestro medio ambiente, con una cantidad ínfima de agua guardada para un incendio, en vez de cientos de miles de metros cúbicos de agua “tratada previamente”, que se encuentran ahora maltratados en un tanque que quizás jamás se use. Esto permitiría además contar con una red de hidrantes para uso de los bomberos, abastecida con un alto régimen de caudal y presión, que dejaría atrás el viejo y recalcitrante argumento de escasez de agua en los incendios.
+
+**SIN FORMACIÓN NO HAY SALVACIÓN**
