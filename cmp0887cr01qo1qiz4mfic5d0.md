@@ -1,0 +1,25 @@
+---
+title: "¿EXISTE ALGÚN LÍMITE DE PRESIÓN EN UN SISTEMA DE ROCIADORES O UNA RED DE AGUA CONTRA INCENDIOS?"
+datePublished: 2026-05-10T20:29:48.219Z
+cuid: cmp0887cr01qo1qiz4mfic5d0
+slug: existe-alg-n-l-mite-de-presi-n-en-un-sistema-de-rociadores-o-una-red-de-agua-contra-incendios
+
+---
+
+## ¿Es 175 psi la máxima presión de trabajo de un sistema de rociadores?
+
+Un sistema de rociadores puede tener más de 175 psi sin ningún problema, de hecho todos los dispositivos que se instalan en un sistema de rociadores deben tener una presión de trabajo mínima de 175 psi, salvo los enterrados que pueden ser certificados para presiones de 150 psi. El numeral con esta indicación es el siguiente: 6.1.3 Presión Nominal. Los componentes de los sistemas deben estar clasificados para la máxima presión de trabajo a la cual estarán expuestos pero no deben estar clasificados a menos de 175 psi (12.1 bar) para los componentes instalados sobre el terreno y de 150 psi (10.4 bar) para componentes instalados soterrados.
+
+Por otro lado la presión máxima permitida puede variar en todo el sistema cuando la restricción se hace sobre la base de la máxima presión a la que está expuesta cada componente individual. La presión de descarga a caudal cero de una bomba puede ser de 200 psi (14 bar), y se puede instalar en el techo rociadores listados para 175 psi (12 bar) siempre que haya suficiente diferencia de elevación para reducir la presión experimentada en ese punto.
+
+Si se instalan rociadores estándares que sólo pueden trabajar a 175 psi, y las presiones del sistema son mayores a 175 psi, se tendrían que usar válvulas reguladoras de presión que no dejen que la presión estática y de flujo supere los 175 psi, o en su defecto optar por rociadores y válvulas Listadas a mayores presiones (generalmente a 300 psi).
+
+En conclusión La NFPA 13 no limita la presión del sistema a 175 psi, ni la limita a ninguna presión, siempre y cuando los equipos estén clasificados para la presión que soportan. En otras palabras es la resistencia de los materiales la que define la máxima presión de trabajo, que usualmente es 300 psi, para la mayoría de materiales listados, a excepción de las tuberías que soportan mucho más presión dependiendo del tipo.
+
+El único límite de presión que existe en las normas NFPA es de 350 psi, pero eso está indicado en la norma NFPA 14 y la razón no es por la existencia de materiales que no soporten presiones mayores. El límite de 350 psi es una preocupación de que las válvulas de control de presión que se utilizan en la conexión de mangueras podrían fallar en la posición abierta, lo que expondría a los bomberos a altas presiones con Pitones que son difíciles o imposibles de controlar.
+
+Al limitar la presión en cualquier lugar del sistema que tiene conexiones de manguera a 350 psi, NFPA 14 está limitando la máxima Presión a la que los bomberos podrían estar expuestos. El límite de 350 psi no se aplica a las montantes de alta presión. Una montante de alta presión es una tubería que no tiene conexiones de manguera, pero toma el agua directamente de la bomba contra incendios hasta una zona más alta del edificio.
+
+El segundo mecanismo que utiliza la NFPA 14 para controlar la presión máxima presión, es la clasificación de los componentes del sistema. Como todos los estándares de NFPA, La NFPA 14 limita el uso de los equipos a la presión para la cual están clasificados, así que mientras no hay presión máxima para las montantes de alta presión, la Sección 7.2.2 limita la presión de éstas hasta el límite de presión que estén listadas las tuberías, válvulas y accesorios que se utilicen.
+
+**SIN FORMACIÓN NO HAY SALVACIÓN**
