@@ -1,0 +1,358 @@
+---
+title: "GUILLERMO REIN: LA VOZ DE LOS FUEGOS OCULTOS"
+datePublished: 2026-05-07T00:09:38.340Z
+cuid: cmouqbi8u00qt1qlrhgni9sw3
+slug: guillermo-rein-la-voz-de-los-fuegos-ocultos
+
+---
+
+El imaginario colectivo sobre los incendios está plagado de imágenes espectaculares: llamas que se elevan, humo en el cielo, estructuras colapsando. Pero no todos los incendios siguen ese patrón, algunos no brillan y dañan más. Cuando se habla de ingeniería del fuego, pocas voces han reposicionado un fenómeno olvidado como lo ha hecho Guillermo Rein. En un mundo obsesionado con el espectáculo de la llama, él decidió mirar hacia adentro.
+
+Profesor del Imperial College London, lidera un equipo que investiga la combustión latente (smouldering) en sus diversas formas: turberas, vertederos, materiales de construcción, espumas sintéticas, residuos industriales, aislantes, textiles, baterías, polímeros porosos y sólidos de baja densidad. Su enfoque combina análisis experimental, modelamiento computacional y aplicación práctica en políticas públicas. Sus contribuciones más relevantes son:
+
+*   La caracterización de smouldering megafires en turberas de Indonesia y el Ártico, documentando su rol en el cambio climático global.
+    
+*   El estudio de incendios en materiales de aislamiento en edificaciones (como espuma de poliuretano), donde demostró riesgo de reactivación tras el incendio.
+    
+*   La consolidación científica del concepto de "incendio zombi", describiendo focos de combustión latente en suelos ricos en carbono que persisten durante el invierno y se reactivan en la temporada siguiente especialmente en regiones árticas.
+    
+*   La identificación de fallas en los sistemas actuales de monitoreo satelital, que no detectan incendios smouldering.
+    
+*   Asesor científico en proyectos de la NASA, la UE y gobiernos de Asia, Europa y Norteamérica para el desarrollo de estrategias en incendios ocultos.
+    
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/ad09b7af-0fb1-4665-b12f-43523579c0f4.webp align="center")
+
+Guillermo ha sabido conectar ciencia, divulgación y política. Sus publicaciones no solo aparecen en revistas académicas, sino también en medios como BBC, Scientific American, Nature y The Guardian, logrando que la conversación sobre incendios latentes entre en el debate climático global.
+
+Su trabajo ha influido en protocolos, diseño de sensores, planificación urbana y clasificación del riesgo térmico no visible. Es un referente, pero también un comunicador preciso que no dramatiza, pero tampoco minimiza. Su trabajo es exponer, demostrar y convencer sin asustar (aunque deberíamos estarlo).
+
+En un campo dominado por la atención a lo inmediato, Guillermo ha recordado que el fuego no solo destruye por explosión o colapso, sino también por persistencia, invisibilidad y desgaste silencioso.
+
+Guillermo recibió una formación de lujo en combustión latente de la mano de su supervisor de doctorado el Profesor Carlos Fernandez-Pello. Ha demostrado que no todos los incendios se apagan con agua, y que no todos los científicos trabajan para extinguir lo que arde visiblemente. Algunos, como él, trabajan para anticipar los fuegos del futuro y entender el daño silencioso que amenaza al planeta desde abajo.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/c538f1df-f281-4317-9be5-7502f78516dd.png align="center")
+
+### ¿QUÉ ES UN INCENDIO ZOMBI?
+
+Cuando se apaga un incendio forestal, la atención se va con las últimas llamas. Pero bajo tierra, a temperaturas más bajas, el fuego puede seguir avanzando. No hay luz, no hay humo visible, pero sí una combustión real. A eso se le llama combustión latente o smouldering fire. Y cuando reaparece días o semanas después, lo llamamos incendio zombi.
+
+El término comenzó a usarse décadas atrás entre ingenieros forestales de Alaska para describir fuegos que sobrevivían el invierno bajo la nieve (overwinter fires). El profesor Guillermo Rein fue quien demostró que ese comportamiento solo es posible si hay combustión latente, consolidando así su base científica.
+
+Guillermo define a estos incendios como "fuegos que pensábamos que estaban muertos, pero están vivos y volvieron a asustarnos". A diferencia de la combustión con llama (flaming), la combustión latente ocurre sin llama, entre 300 °C y 700 °C, en materiales porosos ricos en carbono como turba, carbón, residuos orgánicos o espumas sintéticas.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/3a6ca7ba-45cc-47b5-ab37-add372bb2227.webp align="center")
+
+Aunque el término nació para describir fuegos invernales, hoy se usa para referirse a cualquier foco de combustión latente enterrado que permanece activo tras un incendio aparente. Esta ampliación conceptual permite entender los incendios zombis no solo como un fenómeno estacional, sino como una expresión extrema de la persistencia térmica, es decir los 'fuegos zombis' no solo vuelven… sino que en verdad nunca se fueron.
+
+Tres características los distinguen:
+
+*   Avance lento pero persistente: milímetros por minuto, pero pueden durar meses.
+    
+*   Oxigenación limitada, sin llamas visibles, pero con calor suficiente para mantener la reacción.
+    
+*   Emisión constante de gases tóxicos y contaminantes climáticos como CO, CH₄ y partículas PM2.5.
+    
+
+En turberas del sudeste asiático y el Ártico, estos incendios pueden liberar hasta 6 veces más CO₂ por hectárea que un incendio superficial. En 1997, en Indonesia, un solo evento emitió más de 800 millones de toneladas de carbono, comparable con las emisiones anuales de EE.UU. Duró tres meses. Sin una sola llama.
+
+Estos fuegos, además, no son detectables con sensores ópticos convencionales. Se requiere imagen térmica, monitoreo satelital continuo o perforaciones con sondas térmicas. Y su extinción es compleja: el agua superficial rara vez llega al núcleo activo. Se necesita inundación sostenida, excavación dirigida o inertización química.
+
+Han sido documentados en minas (EE.UU., China), rellenos sanitarios (India, Perú, Turquía), edificaciones con aislantes térmicos, y en incendios forestales mal extinguidos (Canadá, Alaska, Australia).
+
+Estos incendios son la forma más resistente y persistente de combustión que conocemos, y seguirán apareciendo mientras no entendamos su física, por lo tanto, no son incendios del pasado sino más bien del futuro.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/402b99f3-6646-4f5a-992b-7c6ddeeb63c6.webp align="center")
+
+### TRES TIPOS DE INCENDIOS FORESTALES
+
+No todos los incendios forestales se comportan igual. Para entender su dinámica, el profesor Guillermo Rein usa una clasificación basada en el plano de propagación: copa, superficie y suelo. Esta distinción permite analizar el fuego desde su comportamiento físico, su velocidad de avance, su impacto ambiental y su grado de dificultad para la extinción.
+
+**Fuego de copa (Crown fire):**
+
+Afecta las partes altas de los árboles, propagándose por el dosel del bosque. Puede alcanzar velocidades de varios kilómetros por hora y generar columnas convectivas visibles desde grandes distancias. Es el más espectacular, pero también el más estudiado y previsto. Su control depende de cortafuegos, humedad del aire y comportamiento del viento. La liberación de energía puede superar los 100 kW/m².
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/8e92c018-5bbc-42a5-8441-f43825bb2493.jpg align="center")
+
+**Fuego de superficie (Surface fire):**
+
+Avanza por vegetación baja, hojarasca y matorrales. Es más accesible para el combate terrestre y depende mucho de las condiciones del suelo, la pendiente y la carga combustible. Aunque su propagación es menos veloz, puede alcanzar temperaturas de 800–1000 °C y generar igniciones secundarias en zonas próximas.
+
+**Fuego de suelo (Smouldering fire):**
+
+Aquí no hay llamas. La combustión ocurre dentro del suelo o de materiales porosos acumulados, como turba, carbón, espumas, algodón compactado o basura orgánica. La propagación térmica es lenta, pero la persistencia es enorme. Puede durar semanas o meses sin detección visual, con temperaturas entre 300 °C y 700 °C.
+
+Este tercer tipo es el más ignorado por los planes de emergencia, pero representa una amenaza silenciosa para la salud, el ambiente y la estabilidad de las estructuras. Su peligrosidad radica en su invisibilidad, su emisión prolongada de contaminantes, y su resistencia a los métodos de supresión convencionales.
+
+En incendios reales, estos tres tipos pueden coexistir. Un fuego superficial puede convertirse en uno de copa bajo condiciones de viento. Y un incendio de copa puede derivar en uno subterráneo al depositar brasas sobre materia orgánica densa. Entender la transición entre ellos es fundamental para el modelado de incendios complejos.
+
+La clasificación que Rein sigue permite avanzar hacia estrategias diferenciadas de combate, monitoreo y evaluación de impactos, superando el enfoque puramente empírico.
+
+### TURBA: UN COMBUSTIBLE QUE ARDE SIN LLAMA
+
+La turba es un combustible natural pero no es uno cualquiera sino uno de los pocos materiales capaces de sostener una combustión sin llama durante semanas o meses, a baja temperatura, sin ventilación natural o forzada y con un aporte mínimo de oxígeno, en resumen, es el material perfecto para un incendio smouldering (combustión sin llamas o combustión latente).
+
+Desde el punto de vista químico, la turba es una biomasa parcialmente descompuesta, acumulada durante siglos en condiciones anaeróbicas con un alto contenido de carbono (40–60 %) y una estructura porosa que generan un entorno ideal para la combustión latente, pues se propaga lentamente, emite calor de forma continua, y dificulta el acceso al núcleo del incendio.
+
+Las zonas con turba suelen ser pantanos, humedales o ecosistemas de tundra, pero cuando estos suelos se secan —por deforestación, drenaje agrícola o sequías— se transforman en reservorios de fuego oculto.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/8b05ca0a-213d-4dbe-90b8-2a3adbca1ef9.jpg align="center")
+
+Casos muy conocidos fueron los incendios de turba en Indonesia en 1997 y 2015. Ambos eventos liberaron más de 1,000 millones de toneladas de CO₂, equivalentes a las emisiones anuales combinadas de Alemania y Japón. En muchos casos, la turba ardió hasta 5 metros de profundidad, y los focos permanecieron activos durante más de 100 días.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/a9de7222-3231-4792-b95e-c7a850536fe0.jpg align="center")
+
+Se estima que las turberas contienen más carbono que todos los bosques del mundo juntos. Cuando arden, ese carbono acumulado durante milenios se libera en cuestión de días.
+
+Según el equipo de Guillermo Rein, los incendios en turba no solo representan un desafío ambiental, sino que constituyen una amenaza climática directa. Su combustión no está sujeta a límites estacionales, no se apaga con lluvias moderadas, y emite contaminantes atmosféricos de altísimo impacto sanitario.
+
+Otro aspecto crítico es la ineficiencia de la extinción convencional pues aplicar agua sobre la superficie del suelo apenas enfría la capa superior y el núcleo de la turba sigue activo ardiendo por debajo, muchas veces sin que los equipos de respuesta lo detecten, en estos casos se requiere estrategias como inundación sostenida, excavación y cobertura hermética con materiales no combustibles.
+
+La turba no se ve, tampoco se mide como amenaza en muchos planes de manejo de incendios, pero es uno de los combustibles con mayor densidad de emisiones por hectárea y donde el epicentro de algunos de estos incendios son los más persistentes del planeta.
+
+> ### EL FUEGO NO SIEMPRE NECESITA AIRE FRESCO PARA CRECER. A VECES LE BASTA CON SIGLOS DE MATERIA ORGÁNICA Y OLVIDO REGULATORIO.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/ae682531-409c-467b-b404-8511424f56fb.jpg align="center")
+
+### CENTRALIA: EL INCENDIO QUE ARDE DESDE 1962
+
+En 1962, el municipio de Centralia (Pensilvania, EE. UU.) decidió prender fuego a un vertedero ubicado en una antigua mina de carbón. No era la primera vez que lo hacían. Pero esa vez el fuego encontró una veta de antracita abierta, altamente porosa, seca y rica en carbono. En cuestión de semanas, el incendio se hundió en la tierra y jamás volvió a salir.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/a10ecb2c-6a5d-48b5-bf91-99b251d53044.png align="center")
+
+El fuego se propagó lentamente por la red de túneles mineros, bajo calles, casas, iglesias y escuelas. La temperatura del subsuelo superaba los 400 °C en varios puntos, y se reportaron emisiones de monóxido de carbono, dióxido de azufre y metano a través de grietas que aparecían en los jardines y sótanos.
+
+En los años siguientes, el pavimento comenzó a abombarse, y se registraron hundimientos repentinos. Uno de ellos estuvo a punto de tragarse a un niño de 12 años en 1981. A partir de allí, se ordenó la evacuación progresiva del pueblo.
+
+A pesar de múltiples intentos de extinción —inyección de lodo, excavación, taponamientos, inundación— el incendio demostró ser térmicamente autónomo. La masa de carbón actuaba como esponja térmica, y su estructura permitía la entrada de oxígeno lento pero constante. En términos técnicos, se trataba de un incendio smouldering autopropagado y profundamente confinado.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/8dc2494b-d933-4b00-85c4-1bf2220f6365.png align="center")
+
+Hoy, más de 60 años después, el incendio sigue activo. El Servicio Geológico de EE. UU. estima que el fuego podría continuar durante otros 150 a 250 años si no se interviene con técnicas más radicales (como excavación total o barreras geológicas permanentes).
+
+Centralia es uno de los ejemplos más extremos de lo que un incendio latente puede causar en zonas urbanas y semiurbanas. Su historia demuestra que:
+
+*   No todo incendio necesita llamas para desestabilizar una ciudad.
+    
+*   Los materiales de origen fósil pueden arder sin ventilación, sin ruido y sin visibilidad.
+    
+*   La extinción superficial no basta si no se entiende la estructura termodinámica del combustible.
+    
+
+Poco a poco, Centralia se convirtió en un pueblo fantasma. Las casas fueron demolidas. El código postal fue eliminado. Y el fuego, aún sin nombre ni rostro, sigue avanzando.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/d31b41a8-34c6-4b45-9fd6-6eee9ba8fd02.png align="center")
+
+### EL INCENDIO MÁS ANTIGUO QUE AÚN ARDE
+
+Bajo una colina en Australia, conocida como Burning Mountain, arde un fuego que comenzó hace más de seis mil años y nunca se ha extinguido. No hay humo, ni llama, ni señal superficial que delate su presencia, pero a treinta metros bajo tierra, una veta de carbón bituminoso mantiene activa una combustión lenta que ha avanzado más de seis kilómetros a lo largo de los siglos, sin interrupciones, sin intervención humana, sostenida solo por las condiciones naturales del terreno.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/d20b2b21-5606-496d-8ef5-7b2a3df1cc14.jpg align="center")
+
+Este incendio no requiere oxígeno abundante ni llama abierta para propagarse, solo necesita el equilibrio preciso entre la retención de calor, la porosidad del material y la presencia intermitente de aire filtrado por las fisuras del suelo, lo cual ha permitido que el frente térmico se desplace año tras año a un ritmo de uno o dos metros, sin apagarse nunca, sin enfriarse del todo, sin ceder a las lluvias ni a los ciclos estacionales.
+
+La ciencia lo estudia desde el siglo XIX, pero los pueblos aborígenes ya hablaban de él mucho antes, porque lo veían moverse sin verlo arder, porque sentían su calor sin tener que nombrarlo como incendio, porque sabían que el fuego también podía esconderse y resistir debajo del tiempo y del paisaje.
+
+Burning Mountain no es una excepción, solo es el caso más antiguo. Hoy se sabe que existen más de doscientos incendios subterráneos activos en vetas de carbón en distintas partes del mundo. Algunos duran décadas, otros siglos, pero este caso es único por su duración milenaria, lo que nos obliga a pensar en la permanencia térmica de los incendios en entornos naturales. Investigadores como Guillermo Rein, que llevan años descifrando la lógica térmica de estos fuegos que no se ven.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/e038a090-2ed9-49af-aac5-5d498741b829.jpg align="center")
+
+### EMISIONES INVISIBLES, DAÑO REAL
+
+Los incendios smouldering destacan por su duración y no por su intensidad. Ese rasgo, que suele parecer secundario, es justamente el que los convierte en una amenaza ambiental más persistente que todos los incendios convencionales. La diferencia está en cómo ocurre la combustión y no solo en cuánto se quema.
+
+Mientras los incendios con llama generan una oxidación más completa, los incendios latentes operan de forma ineficiente. Avanzan a menor temperatura, pero liberan una mayor proporción de subproductos tóxicos que permanecen más tiempo en el ambiente. Por ejemplo, el monóxido de carbono intoxica de forma crónica a las poblaciones expuestas, el metano acelera el calentamiento global con una potencia que multiplica por 84 veces la del dióxido de carbono, y las partículas PM2.5 penetran los sistemas respiratorios y aumentan la mortalidad asociada a enfermedades cardíacas y pulmonares.
+
+Según el equipo de Guillermo Rein, un incendio de turba de apenas un kilómetro cuadrado puede emitir más gases de efecto invernadero que cien kilómetros de incendio forestal superficial. Allí la diferencia radica en el combustible y en la duración del proceso: materia altamente carbonizada que arde sin interrupciones, a temperaturas moderadas que permiten la liberación sostenida de compuestos orgánicos volátiles.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/51cdf922-8442-4f71-b9a0-41386028ef34.jpg align="center")
+
+A esto se suma el sesgo de los inventarios oficiales pues la mayoría de sensores ópticos no detecta estos incendios, ya que no hay luz visible ni calor de alta intensidad, en consecuencia, los satélites los ignoran y los modelos climáticos los subestiman y como resultado de lo anterior, millones de toneladas de carbono se liberan sin entrar al cálculo global de emisiones.
+
+En Indonesia, por ejemplo, los incendios de turberas de 1997 y 2015 superaron las emisiones anuales de países industrializados completos. Sin embargo, nunca ocuparon el espacio equivalente en medios, políticas o presupuestos, simplemente porque no hicieron ruido, porque no iluminaron el cielo y porque nadie los supo mirar.
+
+En consecuencia, los fuegos latentes no necesitan llamar la atención para dejar una cicatriz imborrable en el planeta. Solo les basta mantenerse activos, día tras día, hasta volver irreversible el daño.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/591ead3b-d708-4819-af7b-a332d27bc9c2.jpg align="center")
+
+### POR QUÉ ES TAN DIFÍCIL APAGAR UN FUEGO SMOULDERING
+
+Enfrentar un incendio smouldering no se parece en nada a combatir un fuego convencional. La mayoría de protocolos están diseñados para frentes de llama visibles, de propagación rápida y comportamiento superficial, pero aquí la dinámica es otra pues no hay llama que guíe, ni frente definido, solo una masa caliente que avanza por dentro.
+
+El primer problema es la profundidad: el foco no está expuesto al aire, sino enterrado a varios metros bajo tierra o confinado dentro de materiales compactos que no permiten una acción directa.
+
+El segundo es la oxigenación: estos incendios pueden sostenerse con cantidades mínimas de oxígeno, que ingresan a través de poros naturales o microfisuras, sin necesidad de ventilación activa.
+
+El tercero es el enfriamiento: la baja conductividad térmica de medios como la turba, el carbón o las espumas impide que el calor se disipe desde el exterior, de modo que el núcleo sigue encendido incluso si la superficie parece estar apagada.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/0f4b03d9-9c71-4309-b098-42584ff0d9d5.png align="center")
+
+El cuarto es la reactivación: aunque se logre enfriar parte del material, el interior puede quedar por encima del punto de ignición y reiniciar la combustión horas o días después.
+
+Los métodos tradicionales como el agua pulverizada o los agentes espumógenos suelen fracasar porque no alcanzan el núcleo térmico. Peor aún, a veces el agua se evapora antes de penetrar, generando vapor que redistribuye el calor hacia zonas no afectadas.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/9835a11b-5ecf-4b35-8048-85264f80da74.png align="center")
+
+En esos casos, las soluciones reales pasan por saturar totalmente el material con agua durante largos periodos, excavar capa por capa guiándose con imágenes térmicas, o cubrir con materiales inertes como arcilla húmeda que actúen como aislante térmico y barrera de oxígeno.
+
+El profesor Guillermo Rein ha documentado que incluso materiales modernos como las espumas de poliuretano, presentes en muros, muebles y equipos de protección, pueden comportarse como fuegos smouldering en entornos confinados. Lo que parecía un incendio extinto puede resurgir desde el interior si no se enfría correctamente toda la masa.
+
+Apagar un fuego smouldering no depende de cuánta agua se use, sino de entender cómo se mueve el calor dentro del material. Si no se alcanza el núcleo térmico, la combustión persiste aunque ya no se vea.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/dd73646d-2cc5-4ca9-aaea-9707aef234e1.png align="center")
+
+### CÓMO SE MODELA UN FUEGO QUE NO TIENE LLAMA
+
+A diferencia de los fuegos clásicos que se expanden con llama visible y corren impulsados por el viento, los incendios smouldering se desplazan por dentro de materiales porosos, sin sonido, sin luz, pero con una lógica térmica precisa que no se detiene, por ello para entenderlos se necesita más que observar, modelar lo que no se ve.
+
+El estudio de Guillermo Rein parte de una premisa sencilla pero poderosa: si el fuego no se comporta como los modelos tradicionales, entonces hay que construir un modelo nuevo que no se base en la visibilidad de las llamas ni en la velocidad del frente, sino en cómo viaja el calor dentro del material, cómo se transforma la materia al arder en silencio y cómo esa transformación puede predecirse con ecuaciones termodinámicas.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/82b44c15-b136-422e-b60a-f3e32dbcd32d.jpg align="center")
+
+Cada parámetro tiene sentido porque la velocidad con la que avanza el frente térmico se calcula a partir de la porosidad del medio, la geometría del sistema y el flujo de aire que transporta el calor, hablamos de predicción basada en ecuaciones que describen cómo se comporta el fuego cuando no tiene llama y no de experiencia acumulada ni de ensayo y error.
+
+Ese modelo permite entender lo que pasa dentro de una espuma, de un suelo de turba o de un vertedero que parece extinto, pero sigue emitiendo gases y permite anticipar la reactivación, estimar la duración del incendio, calcular su potencia y evitar la sorpresa de un fuego mal apagado.
+
+Un incendio sin llama también tiene física, también deja huella, también se puede medir. El desafío es mirar hacia dentro.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/311a20f1-c5ba-45fd-8b61-effda42beb87.jpg align="center")
+
+### TERMINOLOGÍA MÍNIMA PARA ENTENDER UN SMOULDERING
+
+Hablar de incendios sin llama exige revisar el lenguaje, porque cuando usamos los términos de los incendios clásicos terminamos describiendo mal lo que estamos viendo, un fuego smouldering tiene sus propias etapas, sus propios ritmos y sus propios signos, y entenderlo requiere nombrar correctamente lo que ocurre dentro del material.
+
+**Frente de reacción**
+
+No es una llama ni una línea visible, es la zona donde la materia se transforma, puede estar al centro del material o desplazarse como una ola subterránea, avanza lentamente pero no deja nada intacto.
+
+**Pirólisis**
+
+Es el inicio del proceso, cuando la materia se calienta hasta comenzar a descomponerse sin quemarse aún, libera gases, pierde estructura y se prepara para el cambio.
+
+**Zona de oxidación**
+
+Cuando el oxígeno alcanza la materia pirolizada se activa la combustión latente, allí se genera el calor real aunque no exista llama visible, ese punto concentra el núcleo térmico del incendio.
+
+**Gradiente térmico**
+
+Describe cómo se distribuye la temperatura dentro del sistema, el calor no se reparte de forma uniforme sino que define zonas activas, zonas de precalentamiento y zonas en enfriamiento, y esa distribución permite entender hacia dónde avanza el fuego y cuánta energía permanece disponible.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/51817ccd-bf6c-493e-9ed5-e60d823f8540.jpg align="center")
+
+**Tasa de propagación**
+
+Este fuego se arrastra, pero tiene velocidad. Una velocidad medible que depende de la geometría, del tipo de material y del movimiento del aire. Por eso una turba densa o una espuma compacta pueden tardar días, meses, años o incluso siglos en consumirse por completo.
+
+**Distribución de oxígeno**
+
+Sin llama no hay succión violenta de aire, el oxígeno entra por difusión, por corrientes lentas o por grietas, lo que vuelve al sistema extremadamente sensible a cambios pequeños que pueden acelerarlo o apagarlo.
+
+**Zonas de enfriamiento**
+
+Detrás del frente queda la materia ya quemada y allí el calor comienza a disiparse, pero cuando esa disipación es incompleta puede producirse un recalentamiento interno que reorganiza la combustión y permite su reactivación.
+
+Un incendio smouldering avanza sin llama pero exige ser comprendido con su propio lenguaje, porque mientras sigamos llamando humo a lo que no es humo o superficie a lo que arde por dentro, el fenómeno seguirá escapándose del análisis, el modelo existe y el desafío es aprender a mirar hacia adentro y nombrar lo que sucede.
+
+Una referencia importante de este enfoque es el trabajo de Guillermo Rein, cuya investigación ha permitido traducir estos procesos invisibles en conceptos medibles y comparables.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/442acbb6-63d4-466f-a2f5-6c947b45af84.jpg align="center")
+
+### POR QUÉ UN FUEGO LATENTE NO ES ESTABLE
+
+Un incendio smouldering puede parecer inofensivo porque no muestra llamas, pero su estabilidad es engañosa. El sistema funciona como un delicado equilibrio entre producción y disipación de calor, entre aporte de oxígeno y consumo, entre forma del objeto y velocidad de propagación. Bastan pequeñas variaciones para que ese equilibrio se pierda.
+
+Cuando el calor generado en la zona de reacción se disipa más rápido de lo que se acumula, el incendio se apaga. Pero si ocurre lo contrario, si la disipación es menor al calor producido, el sistema se vuelve inestable y el fuego se reaviva con más fuerza, incluso después de horas de aparente extinción. No hay una línea clara entre activo e inactivo, hay una frontera dinámica que puede inclinarse hacia un lado u otro en cuestión de minutos.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/b220370c-ad99-4f59-ae8e-1f62d736fc1b.jpg align="center")
+
+La geometría del material, la humedad, la cantidad de oxígeno disponible y el espesor del medio son variables que pueden jugar a favor o en contra. Un pequeño aumento de temperatura basta para desencadenar una reacción en cadena que reactive el incendio. Por eso no basta con apagar, hay que enfriar, aislar, monitorear, volver a revisar.
+
+Comprender esta inestabilidad es clave para evitar errores comunes, como suponer que un vertedero ya no representa riesgo solo porque dejó de emitir humo o que una espuma ya no está ardiendo porque no hay calor en la superficie. El verdadero peligro del smouldering es que sigue activo en lugares donde nadie está mirando.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/8317e171-9a80-4d75-98d4-fe6e1e23b31a.jpg align="center")
+
+El trabajo de Guillermo Rein ha sido fundamental para ponerle nombre, forma y ecuaciones a esta inestabilidad térmica que tantos incendios ha prolongado o reactivado sin explicación aparente.
+
+### EL FRENTE QUE NO SE VE
+
+Cuando pensamos en un incendio solemos imaginar algo muy concreto, llamas visibles, calor intenso y humo subiendo al techo, pero el fuego latente funciona con otra lógica, no se muestra, no corre, no avisa y aun así avanza.
+
+El estudio desarrollado por Guillermo Rein, José Luis Torero y Janet Ellzey demuestra que un fuego smouldering no es un calentamiento desordenado del material, sino un proceso mucho más preciso, aunque no haya llama el incendio se organiza internamente en una especie de frente invisible que se mueve lentamente por el interior del combustible.
+
+Para entenderlo conviene imaginar el material como un cuerpo que no se quema todo al mismo tiempo, en realidad solo una franja muy pequeña está activa en cada instante, esa franja es el corazón del incendio, delante de ella el material apenas se calienta y detrás de ella el material ya cambió de forma irreversible, se volvió carbonizado, ceniza, otro medio con propiedades distintas.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/0f6e3dc6-ba7e-4a64-957e-1e529213b503.jpg align="center")
+
+Ese frente interno avanza como una ola silenciosa, no se ve desde fuera pero tiene posición, dirección y velocidad, no está repartido por todo el volumen sino concentrado en una zona muy localizada, del orden de centímetros, allí se acumula el calor, allí ocurren las reacciones químicas más importantes, allí está el incendio real aunque nadie lo perciba.
+
+El modelo numérico del artículo muestra algo clave, mientras ese frente mantenga el equilibrio entre el calor que genera y el calor que pierde, el fuego seguirá avanzando, no necesita llama, no necesita grandes corrientes de aire, no necesita señales visibles, puede hacerlo durante horas incluso cuando la superficie parece estable, fría o inofensiva.
+
+Esto explica por qué muchos incendios latentes reaparecen después de haber sido considerados apagados, no es que el fuego regrese, es que nunca se fue, el frente siguió avanzando por dentro, fuera del alcance de la vista y de las intervenciones superficiales.
+
+El aporte central del trabajo de Rein, Torero y Ellzey es obligarnos a cambiar la forma de mirar estos incendios, un fuego sin llama no es un fuego débil ni caótico, tiene estructura, tiene dirección y tiene una dinámica propia, si no entendemos dónde está ese frente invisible seguiremos apagando superficies mientras el incendio real continúa avanzando por dentro.
+
+Ese es el verdadero peligro del fuego latente, no lo que vemos, sino lo que no sabemos mirar.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/74d72529-8929-48e0-a14a-0e693dbf99ab.png align="center")
+
+### DOS ZONAS, DOS MATERIALES, DOS COMPORTAMIENTOS
+
+Una de las ideas más importantes del estudio sobre fuego latente es que el incendio no ocurre en un material homogéneo. A medida que el smouldering avanza, el propio fuego va transformando el combustible y crea, dentro del mismo objeto, dos zonas completamente distintas.
+
+El modelo numérico desarrollado por Guillermo Rein, José Luis Torero y Janet Ellzey muestra que delante del frente de combustión existe una región de material aún virgen, poroso, con propiedades térmicas relativamente estables, mientras que detrás del frente aparece una zona ya transformada, compuesta por combustible carbonizado y cenizas, con un comportamiento térmico totalmente diferente.
+
+Estas dos zonas no solo se distinguen por su estado químico, sino por cómo manejan el calor. En el material sin quemar, el intercambio de calor con el aire es intenso y los poros son pequeños, lo que favorece la pérdida de energía. En cambio, en la zona carbonizada los poros se vuelven mucho más grandes, la convección disminuye y la radiación térmica pasa a dominar el transporte de calor.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/80fcbe99-0a3d-4e81-a760-29b46fc95c91.jpg align="center")
+
+Dicho de forma simple, el fuego va dejando atrás un material que se comporta peor para enfriarse. El incendio modifica el medio de tal forma que el calor se disipa con más dificultad, lo que facilita que el frente continúe avanzando. El material que queda detrás ya no ayuda a apagar el fuego, sino que puede contribuir a mantenerlo.
+
+Este cambio interno es clave para entender por qué el fuego latente es tan persistente. No se trata solo de que el frente avance, sino de que el entorno que deja atrás ya no es el mismo. El incendio crea su propio camino térmico, transformando el combustible en un medio más favorable para su propagación.
+
+El aporte del trabajo de Rein, Torero y Ellzey es mostrar que, en un fuego smouldering, el material no es un actor pasivo. A medida que arde sin llama, se reorganiza, cambia sus propiedades y altera la forma en que el calor se mueve dentro del sistema. Ignorar esta división interna es una de las razones por las que muchos incendios latentes se subestiman o se consideran controlados antes de tiempo.
+
+En un fuego latente no hay un solo material ni un solo comportamiento. Hay dos regiones, dos formas de transferir calor y dos realidades térmicas conviviendo dentro del mismo objeto. Entender esa diferencia es clave para comprender por qué este tipo de incendios avanza en silencio y resulta tan difícil de detener.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/363360cf-8cf6-4e6d-bff2-316c025426b4.png align="center")
+
+### CUANDO MANDA EL OXÍGENO Y CUANDO MANDA LA REACCIÓN
+
+El artículo *Estudio numérico de la combustión latente en flujo directo*, desarrollado por Guillermo Rein, José Luis Torero y Janet Ellzey, muestra que la propagación de un fuego latente no está gobernada siempre por el mismo mecanismo. Dependiendo de las condiciones del flujo de aire, el proceso puede estar limitado por la llegada de oxígeno o por la propia velocidad de la reacción química.
+
+En el modelo numérico, el oxígeno es transportado a través del medio poroso por convección forzada. El artículo señala explícitamente que, cuando la velocidad del flujo es baja, la cantidad de oxígeno que alcanza la zona de reacción se vuelve un factor determinante. En ese régimen, el avance del frente de combustión está controlado principalmente por la disponibilidad de oxígeno y no por la rapidez intrínseca de la reacción.
+
+El texto indica que, en estas condiciones, una variación pequeña en el flujo de aire puede modificar de forma significativa la velocidad de propagación del fuego latente. Esto significa que el incendio responde directamente a cambios externos en la ventilación, porque el oxígeno que llega al frente de reacción es el factor limitante del proceso.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/cd584a82-723e-4197-b8c7-a7a7d34087ba.png align="center")
+
+Sin embargo, el artículo también describe un segundo comportamiento. Cuando la velocidad del flujo de aire aumenta, el aporte de oxígeno deja de ser el elemento que controla la propagación. En este caso, el modelo muestra que el proceso pasa a estar dominado por la cinética química de la reacción de oxidación del sólido.
+
+En este régimen, aumentar aún más la velocidad del aire ya no incrementa de forma apreciable la velocidad del frente. El propio artículo explica que, a partir de cierto punto, la reacción está limitada por la rapidez con la que el combustible puede reaccionar químicamente y no por la cantidad de oxígeno disponible.
+
+Este resultado es central en el trabajo de Rein, Torero y Ellzey, porque demuestra que el fuego latente no responde siempre de la misma manera a la ventilación. El mismo incendio puede comportarse de forma distinta según el régimen en el que se encuentre, pasando de estar controlado por el transporte de oxígeno a estar controlado por la cinética de la reacción.
+
+El artículo deja claro que esta distinción no es conceptual, sino que surge directamente de los resultados del modelo numérico. La propagación del fuego latente depende de cuál de estos dos mecanismos actúa como factor limitante en cada situación, y entender esa diferencia es clave para interpretar correctamente su comportamiento.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/8ba735fb-54c8-46c5-b62e-e240c1752063.jpg align="center")
+
+### QUÉ EXPLICA ESTE MODELO Y QUÉ NO
+
+El artículo *Estudio numérico de la combustión latente en flujo directo*, desarrollado por Guillermo Rein, José Luis Torero y Janet Ellzey, no pretende explicar todos los incendios latentes. Desde el inicio, los autores delimitan con claridad el alcance del modelo y las condiciones bajo las cuales sus resultados son válidos.
+
+El modelo analiza la propagación de un fuego latente en un medio poroso, bajo flujo directo y convección forzada controlada. Describe un escenario específico donde el movimiento del aire, la geometría y las propiedades térmicas están bien definidas. No es un modelo universal del smouldering, sino una herramienta para entender situaciones físicas concretas.
+
+Los resultados muestran buena concordancia entre el modelo numérico y los experimentos en varios regímenes de operación. Sin embargo, los autores señalan que, en determinadas configuraciones, especialmente cuando el frente se aproxima al extremo del dominio, aparecen discrepancias entre los valores calculados y los datos experimentales.
+
+Estas diferencias no se ocultan. El texto reconoce que el modelo simplifica ciertos mecanismos de transferencia de calor y procesos químicos que pueden volverse relevantes fuera del rango analizado. Por ello, advierte que los resultados deben interpretarse dentro de los límites para los cuales fue formulado.
+
+El principal valor del trabajo no está en predecir todos los comportamientos posibles de un fuego latente, sino en identificar qué fenómenos dominan la propagación bajo condiciones controladas. El modelo evalúa la importancia relativa del transporte de oxígeno, la cinética de reacción y la transferencia de calor, sin pretender capturar cada variación de un incendio complejo.
+
+Este reconocimiento de límites refuerza su utilidad. El modelo sirve para entender y comparar, no para reemplazar la observación ni extrapolar sin criterio.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/bd71e852-2362-453d-ab73-77020c683637.png align="center")
+
+El estudio confirma además que el régimen puede estar controlado por la llegada de oxígeno cuando la velocidad del aire es baja, o por la cinética química cuando la velocidad de entrada es alta. Esta distinción es central para entender cuándo el modelo describe con mayor precisión el fenómeno.
+
+El cierre es claro: el trabajo ofrece una base sólida para comprender la combustión latente en flujo directo, pero cualquier aplicación fuera de ese marco requiere cautela. Saber hasta dónde llega un modelo es tan importante como saber qué explica.
+
+![](https://cdn.hashnode.com/uploads/covers/69f6c22b0ab374db996a9305/28668425-d570-4620-983a-4a88bfa3a3eb.jpg align="center")
