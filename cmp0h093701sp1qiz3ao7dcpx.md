@@ -1,0 +1,25 @@
+---
+title: "LA PROTECCIÓN A LA CORROSIÓN EN LAS TUBERÍAS DE AGUA CONTRA INCENDIOS"
+datePublished: 2026-05-11T00:35:33.764Z
+cuid: cmp0h093701sp1qiz3ao7dcpx
+slug: la-protecci-n-a-la-corrosi-n-en-las-tuber-as-de-agua-contra-incendios
+
+---
+
+De acuerdo a las normas NFPA y buenas prácticas de instalación, las tuberías contra incendios deben ser protegidas contra la corrosión, este concepto ha sido llevado en muchos casos a exigencias extremas que han elevado innecesariamente los costos de instalación. Un ejemplo claro de esta situación es aplicar generalizadamente a todos los casos, la exigencia de pintar todas las tuberías e incluso todos los accesorios de unión de tuberías (como por ejemplo los coples ranurados) con una especificación de pintura epóxica de espesor seco mínimo de 8 mils, color rojo RAL 3000, previo arenado o granallado comercial.
+
+![La protección a la Corrosión en las Tuberías de Agua Contra ](https://files.catbox.moe/hbvkqo.jpg)
+
+Este nivel de exigencia puede ser bajo o alto según sea el caso. En una instalación agresiva donde las condiciones corrosivas debidas a la humedad o a las emanaciones provenientes de productos químicos corrosivos, o ambos, puede ser necesario requerimientos de mayores niveles protección contra la corrosión, como por ejemplo el uso de tuberías y accesorios galvanizados en caliente o incluso mayores niveles de protección. Sin embargo este no es el caso de una instalación interior en un ambiente relativamente seco como lo es un parqueo de estacionamientos, una montante dentro de una caja de escaleras o una red de tuberías que recorre ambientes cerrados en una edificación.
+
+![La protección a la Corrosión en las Tuberías de Agua Contra ](https://files.catbox.moe/a8ouiv.jpg)
+
+Los fabricantes de tuberías contra incendio tienen la opción de despachar las tuberías con una laca natural o transparente que resulta ser muy económica y a la vez bastante buena para resistir condiciones de protección contra la corrosión para instalaciones donde la humedad o las condiciones corrosivas no son extremas (ejemplo usos interiores). La ventaja de esta laca transparente está además en el hecho de que dejaría a la vista las especificaciones del fabricante, cumpliendo con lo que indica el numeral 6.3.7.10.1 de la norma NFPA 13-2016 que requiere que las tuberías de los rociadores sean marcadas a lo largo de su longitud, de manera que el tipo de tubería pueda ser identificado adecuadamente. El objetivo de este numeral es poder identificar al fabricante y tipo de tubería que se ha utilizado. Una tubería pintada puede acarrear que luego no se pueda identificar el tipo de Cedula de la tubería, el nombre o marca del fabricante, las certificaciones del producto, la procedencia, etc.
+
+![La protección a la Corrosión en las Tuberías de Agua Contra ](https://files.catbox.moe/j49u88.jpg)
+
+Para casos en los que la laca provista por el fabricante no es suficiente para evitar la corrosión, el numeral 8.16.4.2. de la norma NFPA 13-2016, indica que deben utilizarse accesorios, tubos y soportes de tipos especiales que resistan la corrosión o debe aplicarse un recubrimiento protector a todas las superficies expuestas no protegidas del sistema de rociadores. La pregunta que viene luego de esta indicación es: ¿Qué tipo de protección a la corrosión debería aplicar a las tuberías de un sistema contra incendios?. La respuesta a esta pregunta resulta compleja pues depende de las particularidades de cada nivel de protección a la corrosión que se requiera aplicar, según las condiciones ambientales a las cuales estará expuesta la tubería. Para mayores detalles es bueno asesorarse de un especialista en pintura quien nos dará la mejor relación del binomio calidad/precio, según cada caso particular en el que estemos diseñando o instalando sistemas de agua contra incendios.
+
+Sin embargo al margen del análisis de los niveles de protección a la corrosión que se deban aplicar a cada caso, es necesario precisar que los costos del proceso resultan siendo bastante importantes en muchos casos. Por ejemplo haciendo un análisis entre la protección básica con laca transparente y la protección especial con pintura epóxica de espesor seco mínimo de 8 mils previo arenado o granallado comercial, en promedio los costos de las tuberías se incrementan entre 30% al 100%, lo cual no sólo dependerá de los costos de arenado o granallado y pintado, sino de todos los costos asociados al transporte de las tuberías para ejecutar estos procesos, además de las reparaciones de la pintura o repintado que hay que aplicar durante la fabricación y montaje de tuberías, y de los cuidados que tienen que seguirse durante todo el proceso, ya que por la naturaleza delicada de la pintura, los trabajos de instalación se ralentizan notablemente cuando las tuberías son pintadas. En contraposición, una tubería laqueada puede ser transportada directamente al taller de instalación u obra y normalmente no se daña durante el proceso ya que es muy resistente a los golpes y abrasión.
+
+**SIN FORMACIÓN NO HAY SALVACIÓN**
