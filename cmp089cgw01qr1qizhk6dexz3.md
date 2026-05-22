@@ -1,0 +1,33 @@
+---
+title: "¿SE DEBEN PINTAR LAS TUBERÍAS DE AGUA CONTRA INCENDIOS COLOR ROJO?"
+datePublished: 2026-05-10T20:30:41.505Z
+cuid: cmp089cgw01qr1qizhk6dexz3
+slug: se-deben-pintar-las-tuber-as-de-agua-contra-incendios-color-rojo
+
+---
+
+![¿Se deben pintar las tuberías de agua contra incendios color](https://files.catbox.moe/7rj218.jpg)
+
+En mis años (que no son pocos), dedicado al diseño e instalación de Sistemas Contra Incendios, he sido víctima de “mitos”. Los mitos son creencias imaginarias de la gente que se transmiten de manera verbal o escrita y alteran las cualidades de una cosa, dándoles mayor valor del que tienen en realidad. En mis más de 20 años involucrado en la profesión de incendios, he visto como el mito que las tuberías contra incendio deben ser pintadas de color Rojo, ha provocado que se paralicen maniobras enteras y se posterguen entregas de obras causadas por que el tubo no es rojo, o porque no tiene un color RAL en específico. La norma técnica Itintec 399.012, norma sobre “Colores de Identificación de Tuberías Para Transporte de Fluidos en Estado Gaseoso o Líquidos en Instalaciones Terrestres y en Naves”, es muchas veces utilizada como argumento para exigir el uso del color rojo en las tuberías de sistemas de rociadores automáticos y redes de agua contra incendio.
+
+![¿Se deben pintar las tuberías de agua contra incendios color](https://files.catbox.moe/i0z9z6.jpg)
+
+Sin embargo el objeto de esta norma no es el de exigir el color rojo para pintar las tuberías de los sistemas de rociadores y redes de agua contra incendio, el propósito es limitar el uso de colores para usarse en la identificación de tuberías durante el transporte de fluidos. Por otro lado, como toda norma técnica, las normas ITINTEC no son de cumplimiento obligatorio, solo una Ley o Reglamento hace obligatoria una norma técnica. Al no ser citada esta norma en ningún Reglamento (por ejemplo el RNE), no debe ser de cumplimiento obligatorio, siendo totalmente irracional desde mi punto de vista, que se paralice el trabajo en una obra o no se recepcione un sistema contra incendios, porque el color utilizado no es rojo, o peor aún porque el RAL de la tubería no es 3000.
+
+Si bien es una buena práctica pintar las tuberías color rojo para mantener uniformidad y estética, hay muchos casos en que el color rojo no concuerda con los acabados y particularidades arquitectónicas de un determinado lugar, por lo que aplicando el principio de la no obligatoriedad, no debería ser exigido el color rojo en específico. Otras razones para hacerlo obligatoriamente son los casos en que se requiere distinguir una serie de tuberías por las que circulan fluidos de diferentes características, más aun si estas tuberías se encuentran ubicadas en un entorno industrial, en donde la estética no es un elemento importante. Sin embargo, este no sería el caso de una instalación urbana típica (edificios residenciales, comerciales, oficinas, etc.) donde normalmente sólo circula agua para consumo doméstico, aguas residuales y agua contra incendios.
+
+![¿Se deben pintar las tuberías de agua contra incendios color](https://files.catbox.moe/11eaag.jpg)
+
+Desde el punto de vista de la norma NFPA 13: ¿Es necesario que las tuberías sean pintadas de color rojo?. La respuesta es “No” y más aún no se deberían pintar en ningún color.
+
+El numeral 6.3.7.10.1 de la norma NFPA 13-2016 requiere que las tuberías de los rociadores sean marcadas a lo largo de su longitud, de manera que el tipo de tubería puede ser identificado.
+
+De hecho la mejor práctica debería ser dejar la tubería en la laca provista por el fabricante que permita cumplir con el numeral 6.3.7.10.1, el objetivo de este numeral es poder identificar al fabricante y tipo de tubería que se ha utilizado. Una tubería pintada de color rojo o cualquier color, puede acarrear que luego no se pueda identificar el tipo de Cedula de la tubería, el nombre o marca del fabricante, las certificaciones del producto, la procedencia, etc.
+
+![¿Se deben pintar las tuberías de agua contra incendios color](https://files.catbox.moe/n9yath.jpg)
+
+Para casos en los que la laca provista por el fabricante no es suficiente para evitar la corrosión, debido a la existencia de condiciones corrosivas provoca-das por la humedad o emanacio-nes provenientes de productos químicos corrosivos, o ambos, el numeral 8.16.4.2. de la norma NFPA 13-2016, indica que deben utilizarse accesorios, tubos y soportes de tipos especiales que resistan la corrosión o debe aplicarse un recubrimiento protector a todas las superficies expuestas no protegidas del sistema de rociadores. El tema del color no es indicado en la norma NFPA 13, pero es una buena práctica escoger el color Rojo como primera opción, si es que no hay una contraposición con un tema arquitectónico en particular. Dentro de este punto de vista, exigir no sólo que sean pintadas de rojo sino, que se use un color RAL específico, es más que exigente y fuera de todo aspecto normativo vigente.
+
+Finalmente la norma NFPA 13 es clara en afirmar que el proceso de pintado de tuberías, dejaría oculto y sin identificar el tipo de Cedula de la tubería y las certificaciones del producto, por tal razón este proceso “no deseable”, debe hacerse después que se ha comprobado que la tubería adecuada se ha utilizado. En otras palabras, la tubería puede ser pintada o provista de una capa protectora para satisfacer las exigencias de la protección a la corrosión establecidas en el numeral 8.16.4.2, luego que es aprobada por la autoridad competente, el usuario o su representante. Nuevamente, el color no está en discusión aquí, sino la protección contra la corrosión y la identificación del producto.
+
+**SIN FORMACIÓN NO HAY SALVACIÓN**
