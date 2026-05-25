@@ -112,6 +112,4 @@ No basta con tener el barco. No basta con tener la balsa. La diferencia entre un
 
 Y sí: para eso hacen falta huevos.
 
-**MATERIAL DE APOYO**
-
 **SIN FORMACIÓN NO HAY SALVACIÓN**
