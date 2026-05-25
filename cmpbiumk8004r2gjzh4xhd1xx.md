@@ -46,7 +46,7 @@ Las normas son el punto de partida, no el destino. En esta serie analizo NFPA, R
 
 🚿 [Rociadores](https://jussefliban.com/series/rociadores)
 
-Los rociadores automáticos son la herramienta más efectiva que existe para controlar un incendio en sus primeros minutos. Sin embargo, son también los más malentendidos, los más mal diseñados y los más subestimados. En esta serie exploro su lógica, sus limitaciones y su verdadero potencial..
+Los rociadores automáticos son la herramienta más efectiva que existe para controlar un incendio en sus primeros minutos. Sin embargo, son también los más malentendidos, los más mal diseñados y los más subestimados. En esta serie exploro su lógica, sus limitaciones y su verdadero potencial.
 
 🧭 [Filosofía del Conocimiento](https://jussefliban.com/series/filosofia-del-conocimiento)
 
